@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#########################################
+#                                       #
+# Measure time required to execute file #
+#                                       #
+#########################################
 
 
 start_time=$(date +%s)
