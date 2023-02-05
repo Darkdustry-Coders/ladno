@@ -2,7 +2,8 @@
     <h1>Darkdustry-Coders/ladno</h1>
     <p>teaching darkness writing informative commit messages</p>
 </div>
-# every time when dark use nonsence in commit message i will add one script to this repo
+
+## every time when dark use nonsence in commit message i will add one script to this repo
 
 ## Examples of commits that are reason to make new script in this repo:
 [HexedPlugin:gradle] 1 new commit
